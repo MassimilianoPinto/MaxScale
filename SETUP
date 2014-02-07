@@ -1,5 +1,7 @@
 Installation and startup
 
+--------
+
 Untar the binary distribution in the desired location,
 e.g. /usr/local/skysql
 
