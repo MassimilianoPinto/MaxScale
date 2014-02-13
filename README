@@ -1,6 +1,6 @@
 /** \mainpage MaxScale by SkySQL
 
-
+__________________________________
 
 The SkySQL MaxScale is an intelligent proxy that allows forwarding of
 database statements to one or more database servers using complex rules,
